@@ -82,7 +82,7 @@
     }
   ```
 
-## 이 두가지 코드만 있으면 pencilKit의 가장 친숙한 모습인 Canvas에 ToolPicker가 뜨는 모양으로 구현할 수 있다.##
+### 이 두가지 코드만 있으면 pencilKit의 가장 친숙한 모습인 Canvas에 ToolPicker가 뜨는 모양으로 구현할 수 있다.
 
 <img width="300" alt="Simulator Screenshot - iPad (10th generation) - 2024-06-20 at 11 49 58" src="https://github.com/lemonisgreen/2024-NC2-M07-PencilKit/assets/138443851/632ef139-c166-444f-a66a-5d13d8d1d53f">
 
