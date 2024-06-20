@@ -1,5 +1,5 @@
 # 2024-NC2-M07-PencilKit
-### 라일리✨와 레모니🍋가 함께👩🏻‍❤️‍👩🏻 만든 인체🧠 드로잉✍️ 노트🗒️
+**라일리✨와 레모니🍋가 함께👩🏻‍❤️‍👩🏻 만든 인체🧠 드로잉✍️ 노트🗒️**
 
 > [!IMPORTANT]
 > 본 코드는 PencilKit 학습을 목적으로 https://github.com/aneliyakarim/Doodle-App 의 코드를 Clon Coding한 것으로, 이후 Use Case에 맞춰 약간의 코드 수정을 가미했습니다.
@@ -86,7 +86,7 @@
     }
   ```
 
-### 이 두가지 코드만 있으면 pencilKit의 가장 친숙한 모습인 Canvas에 ToolPicker가 뜨는 모양으로 구현할 수 있다.
+ **이 두가지 코드만 있으면 pencilKit의 가장 친숙한 모습인 Canvas에 ToolPicker가 뜨는 모양으로 구현할 수 있다.**
 
 <img width="300" alt="Simulator Screenshot - iPad (10th generation) - 2024-06-20 at 11 49 58" src="https://github.com/lemonisgreen/2024-NC2-M07-PencilKit/assets/138443851/632ef139-c166-444f-a66a-5d13d8d1d53f">
 
